@@ -1,0 +1,8 @@
+out/
+*.class
+.vscode/
+.idea/
+~$*.docx
+Roteiro_Apresentacao.pdf
+Relatorio_Filas.docx
+Roteiro_Trabalho_Filas_Java.pdf
